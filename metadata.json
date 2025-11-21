@@ -1,0 +1,8 @@
+{
+  "name": "Infigenie OS",
+  "description": "The comprehensive AI Operating System for Personal (AIOS) and Business (BIOS) management.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
